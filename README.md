@@ -1,3 +1,4 @@
+
 # lcc sharepoint prototype kit
 
 An Express application to allow designers to quickly prototype designs on both desktop and mobile devices and to allow the business to comment early on in the design process.
@@ -30,3 +31,6 @@ The steps to create a new prototype from this repo are as follows:
 8. Perform an initial commit and push to GitHub, which will kick of a Travis CI build which will deploy the site to Heroku accessible at [appname].herokuapp.com.
 
 NOTE:  We are also able to run the Node.js Express web application locally instead of pushing to Heroku by simply typing ‘gulp’ in the Integrated Terminal (Views/Integrated Terminal) in VS Code when the particular prototype project is open in the editor.  This will start a local web server, accessible at: [http://localhost:3000](http://localhost:3000) although the port can change if already in use by another process.
+
+"# lcc_insite_prototype" 
+
